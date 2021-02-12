@@ -5,7 +5,7 @@ name: 京东小魔方（截止2月13）
 on:
     workflow_dispatch:
     schedule:
-        - cron: "7 12 * * *"
+        - cron: "7 12 13 2 *"
     watch:
         types: [started]
     repository_dispatch:
