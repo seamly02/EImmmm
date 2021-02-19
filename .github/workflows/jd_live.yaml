@@ -1,4 +1,4 @@
-name: 京东直播
+name: 京东直播（过期活动）
 
 on:
     workflow_dispatch:
