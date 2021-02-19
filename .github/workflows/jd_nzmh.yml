@@ -7,7 +7,7 @@ name: 京东女装盲盒（截止2月25号）
 on:
     workflow_dispatch:
     schedule:
-        - cron: "30 16 19-26 2 *"
+        - cron: "1 16 19-26 2 *"
     watch:
         types: [started]
     repository_dispatch:
