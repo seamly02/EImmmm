@@ -7,10 +7,3 @@ https://github.com/seamly01/MyActions2
 环境变量说明:
 
 
-https://github.com/Choicc/MyActions
-
-https://github.com/zero205/JD
-
-https://github.com/shuye73/MyActions
-
-
