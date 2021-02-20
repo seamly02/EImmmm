@@ -23,7 +23,7 @@ jobs:
             - name: 安装依赖包
               run: |
                   npm install
-            - name: "运行【京东直播】"
+            - name: "运行【京东极速版签到+赚现金】"
               run: |
                   node onlyOneExecute.js
               env:
