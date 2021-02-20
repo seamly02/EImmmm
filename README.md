@@ -1,4 +1,4 @@
-# 项目已作废
+# 项目已作废,仅为备份
 https://github.com/seamly01/MyActions2
 
 项目说明
