@@ -49,5 +49,5 @@ jobs:
                   JD_JOY_REWARD_NAME: ${{ github.event.client_payload.JD_JOY_REWARD_NAME || secrets.JD_JOY_REWARD_NAME }}
                   JD_JOY_REWARD_NOTIFY: ${{ github.event.client_payload.JD_JOY_REWARD_NOTIFY || secrets.JD_JOY_REWARD_NOTIFY }}
                   SYNCURL: joy_reward.js
-                  REPOURL: https://github.com/seamly01/QuantumultX/blob/master/Task/
+                  REPOURL: https://github.com/seamly01/QuantumultX/raw/master/Task/
                   BANSTR: ${{ github.event.client_payload.BANSTR || secrets.BANSTR }}
