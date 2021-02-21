@@ -47,3 +47,6 @@ jobs:
                   SYNCURL: jd_crazy_joy_coin.js
                   REPOURL: ${{ github.event.client_payload.REPOURL || secrets.REPOURL }}
                   BANSTR: ${{ github.event.client_payload.BANSTR || secrets.BANSTR }}
+                  BUY_JOY_LEVEL: ${{ github.event.client_payload.BUY_JOY_LEVEL || secrets.BUY_JOY_LEVEL }}
+                  JDJOY_APPLYJDBEAN: ${{ github.event.client_payload.JDJOY_APPLYJDBEAN || secrets.JDJOY_APPLYJDBEAN }}
+                  JDJOY_HELPSELF: ${{ github.event.client_payload.JDJOY_HELPSELF || secrets.JDJOY_HELPSELF }}
